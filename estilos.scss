@@ -236,10 +236,7 @@ $fontsizee: 50px;
     padding-left: 140px;
 }
 .tuprox{
-    text-align: center;
-    font-size: 35px;
-    text-decoration: underline 10% $color_2;
-    margin-bottom: 100px;
+    @include ache1()
 }
 
 .autousado{
@@ -265,6 +262,13 @@ h4{
 }
 .card-text{
     margin-left: 40px;
+}
+
+@mixin ache1 {
+    text-align: center;
+    font-size: 35px;
+    text-decoration: underline 10% $color_2;
+    margin-bottom: 100px;
 }
 
 @media screen and (max-width:479px){
