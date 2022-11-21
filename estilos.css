@@ -300,7 +300,7 @@ h4 {
     font-size: 20px;
   }
   .sarasa {
-    font-size: 13px;
+    font-size: 15px;
   }
   .pregf {
     font-size: 20px;
@@ -341,5 +341,177 @@ h4 {
   }
   .titulosf1 {
     margin-left: 80px;
+  }
+  .porque {
+    display: none;
+  }
+  .titulosf {
+    display: none;
+  }
+  .titulosf1 {
+    display: none;
+  }
+  .titulosf2 {
+    display: none;
+  }
+  .financiacion {
+    display: none;
+  }
+  .hola123 {
+    display: none;
+  }
+  #fomrulario {
+    display: none;
+  }
+  .atencion {
+    margin-right: 35px;
+  }
+  .pregf {
+    display: none;
+  }
+  #prueba {
+    display: none;
+  }
+}
+@media screen and (min-width: 480px) and (max-width: 850px) {
+  .sobren {
+    font-size: 15px;
+  }
+  .texto {
+    font-size: 10px;
+    text-align: left;
+    margin-right: 100px;
+  }
+  .imagensobre {
+    display: none;
+  }
+  #demo {
+    display: none;
+  }
+  .encuentro {
+    font-size: 18px;
+  }
+  .hola1234 {
+    font-size: 20px;
+  }
+  .tuprox {
+    font-size: 25px;
+  }
+  .autousado {
+    height: 150px;
+    width: 100%;
+    margin: 0 0 0 0;
+  }
+  .recb {
+    font-size: 20px;
+  }
+  .sarasa {
+    font-size: 15px;
+  }
+  .pregf {
+    font-size: 20px;
+  }
+  .titulocons {
+    font-size: 15px;
+    letter-spacing: 2px;
+  }
+  .subcons {
+    font-size: 12px;
+    letter-spacing: 2px;
+  }
+  .img-fluid {
+    height: 150px;
+  }
+  .titulofin {
+    font-size: 20px;
+  }
+  .creditoo {
+    font-size: 13px;
+  }
+  .porque {
+    font-size: 20px;
+  }
+  .titulosf {
+    font-size: 15px;
+    margin-left: 80px;
+  }
+  .financiacion {
+    font-size: 12px;
+    text-align: center;
+  }
+  .hola123 {
+    margin-left: 80px;
+  }
+  .titulosf2 {
+    margin-left: 80px;
+  }
+  .titulosf1 {
+    margin-left: 80px;
+  }
+  .porque {
+    display: none;
+  }
+  .titulosf {
+    display: none;
+  }
+  .titulosf1 {
+    display: none;
+  }
+  .titulosf2 {
+    display: none;
+  }
+  .financiacion {
+    display: none;
+  }
+  .hola123 {
+    display: none;
+  }
+  #fomrulario {
+    display: none;
+  }
+  .atencion {
+    margin-right: 35px;
+  }
+  .pregf {
+    display: none;
+  }
+  #prueba {
+    display: none;
+  }
+}
+@media screen and (min-width: 851px) and (max-width: 1250px) {
+  .imagensobre {
+    height: 280px;
+    width: 450px;
+  }
+  .porque {
+    display: none;
+  }
+  .titulosf {
+    display: none;
+  }
+  .titulosf1 {
+    display: none;
+  }
+  .titulosf2 {
+    display: none;
+  }
+  .financiacion {
+    display: none;
+  }
+  .hola123 {
+    display: none;
+  }
+  #fomrulario {
+    display: none;
+  }
+  .atencion {
+    margin-right: 35px;
+  }
+  .pregf {
+    display: none;
+  }
+  #prueba {
+    display: none;
   }
 }/*# sourceMappingURL=estilos.css.map */
